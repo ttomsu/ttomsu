@@ -6,7 +6,9 @@
 
 :coffee: Java and Go are my favorite languages and ones with which I have the most experience
 
-:cloud: I currently work at Google on the Google Cloud Platform ([Spring Cloud GCP](https://github.com/GoogleCloudPlatform/spring-cloud-gcp) team)
+:movie_camera: I currently work at Netflix on the Telemetry Engineering team, specifically the centralized logging team
+
+:cloud: I previously worked at Google on both the video ads and cloud teams
 
 :sailboat: I've previously worked on [Spinnaker](https://spinnaker.io), an OSS continuous delivery platform for cloud native applications
 
@@ -20,7 +22,7 @@ See full experience résumé at https://www.linkedin.com/in/travistomsu/
 
 :muscle: [I lift things up and put them down](https://www.youtube.com/watch?v=q7gzmoqmL7g)
 
-:baby: I'm a father to two boys
+:baby: I'm a father to two boys and one girl.
 
 :moneybag: I love talking and thinking about personal finance
 
