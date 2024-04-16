@@ -2,15 +2,15 @@
 
 ## Professional
 
-:computer: Mostly backend software engineer, but I've done lots of full stack work
+:globe_with_meridians: Backend software engineer who learns fast (including frontend, as needed)
 
-:coffee: Java and Go are my favorite languages and ones with which I have the most experience
+:technologist: Go and Java are my favorite languages and ones with which I have the most experience
 
-:movie_camera: I currently work at Netflix on the Telemetry Engineering team, specifically the centralized logging team
+:movie_camera: I currently work at Netflix on the Platform Modernization Engineering team, specifically the centralized logging team
 
-:cloud: I previously worked at Google on both the video ads and cloud teams
+:cloud: I previously worked at Google for ~10 years on both Google Cloud Platform (GCP) and video ads teams
 
-:sailboat: I've previously worked on [Spinnaker](https://spinnaker.io), an OSS continuous delivery platform for cloud native applications
+:sailboat: I've previously worked on [Spinnaker](https://spinnaker.io), an OSS continuous delivery platform from Netflix for cloud native applications
 
 :books: I love learning - software engineering is great because there's always something new to learn and explore and grow
 
